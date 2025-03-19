@@ -1,4 +1,6 @@
-Hello..!! Its Jai 
+![1738513970812](https://github.com/user-attachments/assets/9e90d735-7499-4073-8ac8-f72e5f6d2596)
+
+# Hello..!! Its Jai 
 - 👀 I’m interested in Computer vision and Deep learning Projects 
 - 🌱 I’m currently persuing my Masters in Mechatronics
 - 📫 How to reach me: jaidoshiofficial@gmail.com
