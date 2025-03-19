@@ -1,14 +1,12 @@
 ![1738513970812](https://github.com/user-attachments/assets/9e90d735-7499-4073-8ac8-f72e5f6d2596)
 
-## 💥 Hello..!! Its Jai
-
-<h3 align="center">
-    Hi There
+<h3 align="Left">
+    Hello..!!
     <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
          width="45" />
-    I'm Jai!
+    Its Jai..!
 </h3>
 
 - 🎓 M.Sc. Master Mechatronics Student -FH RWU Germany
