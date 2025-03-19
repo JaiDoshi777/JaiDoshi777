@@ -1,5 +1,8 @@
 ![1738513970812](https://github.com/user-attachments/assets/9e90d735-7499-4073-8ac8-f72e5f6d2596)
 
+![istockphoto-936364312-612x612](https://github.com/user-attachments/assets/cad2fea3-0a5b-4350-ac12-99866ce18168)
+
+
 # Hello..!! Its Jai 
 - 👀 I’m interested in Computer vision and Deep learning Projects 
 - 🌱 I’m currently persuing my Masters in Mechatronics
