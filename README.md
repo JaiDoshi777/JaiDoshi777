@@ -1,6 +1,8 @@
 ![1738513970812](https://github.com/user-attachments/assets/9e90d735-7499-4073-8ac8-f72e5f6d2596)
 
-![istockphoto-936364312-612x612](https://github.com/user-attachments/assets/cad2fea3-0a5b-4350-ac12-99866ce18168)
+
+## 🌐 Wahnt to reach me?:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/jaidoshi777) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jaidoshiofficial@gmail.com) 
 
 
 # Hello..!! Its Jai 
