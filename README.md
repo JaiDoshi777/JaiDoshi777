@@ -14,7 +14,8 @@
 - 💓 Love for Computer Vision, Machine Learning & ADAS.
 
 ## 🌐 Want to reach me?
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/jaidoshi777) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jaidoshiofficial@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jaidoshi777) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jaidoshiofficial@gmail.com) 
 
 ## 🖥️ Tech Stack:
 ### 🚀 Programming Languages
