@@ -1,16 +1,15 @@
 ![1738513970812](https://github.com/user-attachments/assets/9e90d735-7499-4073-8ac8-f72e5f6d2596)
 
 <h3 align="Left">
-    Hello..!!
     <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
-         height="45"
-         width="45" />
-    Its Jai..!
+         height="40"
+         width="40" />
+    Hello..!! Its Jai..!
 </h3>
 
 - 🎓 M.Sc. Master Mechatronics Student -FH RWU Germany
-- 👀 Enthusiast for ADAS & Robotics Future
+- 👀 Enthusiast for ADAS & Robotics Future 
 - 💓 Love for Computer Vision, Machine Learning & ADAS.
 
 ## 🌐 Want to reach me?
